@@ -1,0 +1,10 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+  background: url(../img/IDBank.jpg) no-repeat bottom center scroll;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
