@@ -141,7 +141,7 @@ $(document).ready(function(){
         estructura += '<option value="3">BOGOTA, D.C.</option>';
         estructura += '<option value="4">BOLÍVAR</option>';
         estructura += '<option value="5">CAUCA</option>';
-        estructura += '<option value="6">CESAR - LA GUAJIRA</option>';
+        estructura += '<option value="6">LA GUAJIRA</option>';
         estructura += '<option value="7">CHOCÓ</option>';
         estructura += '<option value="8">CORDOBA</option>';
         estructura += '<option value="9">MAGDALENA</option>';
@@ -149,7 +149,7 @@ $(document).ready(function(){
         estructura += '<option value="11">NARIÑO</option>';
         estructura += '<option value="12">NORTE DE SANTANDER</option>';
         estructura += '<option value="13">PUTUMAYO</option>';
-        estructura += '<option value="14">SANTANDER Y MAGDALENA MEDIO</option>';
+        estructura += '<option value="14">MAGDALENA MEDIO</option>';
         estructura += '<option value="15">SUCRE</option>';
         estructura += '<option value="16">TOLIMA</option>';
         estructura += '<option value="17">VALLE DEL CAUCA</option>';
